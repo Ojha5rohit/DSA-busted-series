@@ -1,4 +1,4 @@
-// prime no. program :
+// prime no. program through functions:
 #include<iostream>
 using namespace std;
 
